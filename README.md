@@ -65,10 +65,6 @@ Hall Ticket No: *2203A52032*
 
 ---
 
-## 📜 License
-🔓 This project is released under the **MIT License**.
-
----
-
 ### 🖥️ Language Used
-[![C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+![C LANGUAGE](https://img.shields.io/badge/C%20LANGUAGE-blue?style=for-the-badge)
+
